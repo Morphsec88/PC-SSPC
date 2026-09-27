@@ -44,7 +44,6 @@ kiváltva a hagyományos kémiai (pl. Li-ion) akkumulátorokat.
 | **Biztonság / Leválasztás** | Termikus megfutás veszélye | Azonnali mechanikus lekapcsolás (levegőleeresztés) |
 | **Környezeti hatás** | Kritikus bányászat (Li, Co) | Száraz fémek, teljesen újrahasznosítható |
 
-## Mérnöki kompromisszum és pozicionálás
 
 ## Operational Ecosystem & Modular Scaling
 
@@ -54,8 +53,9 @@ To seamlessly integrate the PC-SSPC architecture into the commercial market, the
 *   **Gravity-Assisted Rolling Hot-Swap:** Each standardized potential cassette is engineered as a self-contained, 4-wheeled rolling module. Once the pneumatic actuator deflates and completely uncouples the electrical interface, a mechanical latch releases the cassette. Utilizing a subtle, integrated decline track within the vehicle's chassis, the depleted unit safely rolls out via gravity. This eliminates the need for high-powered, complex robotic lifting machinery at service stations, reducing the swap mechanism to simple directional guiding rails.
 *   **Extended Range Scaling (Auxiliary Cargo Storage):** Due to the dry, non-volatile, and safe nature of the solid-state architecture, users can purchase additional standalone cassettes. According to the design framework, these modular units can be safely transported in the cargo beds of utility vehicles (e.g., pickup trucks) or larger trunks to serve as plug-and-play range extenders for remote off-grid operations.
 
-A kiegészítő pneumatika és a robusztus kazettaszerkezet miatt a PC-SSPC **fizikailag nagyobb térfogatú és nehezebb**, mint egy azonos kapacitású Li-ion akkumulátor. 
 
+## Mérnöki kompromisszum és pozicionálás
+A kiegészítő pneumatika és a robusztus kazettaszerkezet miatt a PC-SSPC **fizikailag nagyobb térfogatú és nehezebb**, mint egy azonos kapacitású Li-ion akkumulátor. 
 Ez a tömeg- és méretnövekedés egy tervezett mérnöki kompromisszum.
 A gyártás a nagyobb felépítésű járművek (SUV, teherautók, vonatok, hajók) és a hálózati energiatárolás (Grid) esetében válik kifizetődővé a következők miatt:
 *   **Életciklus-költség:** Nem igényel időszakos, méregdrága akkupakk-cserét, túlélve a jármű élettartamát.
