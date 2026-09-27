@@ -23,10 +23,10 @@ kiváltva a hagyományos kémiai (pl. Li-ion) akkumulátorokat.
 3.  **Buffering & Output:** Az áram feltölti a kondenzátortelepet, amely kiszolgálja a külső terhelést.
 4.  **Depletion & Swap:** A kazetta 0 Voltig kisüthető szerkezeti károsodás nélkül, majd kicsúsztatható és újra polarizálható.
 
-### Terheléskezelés (Pneumatikus vezérlés)
-*   **Szekvenciális kapcsolás:** Normál üzemben a szelepek folyamatosan, egymás után aktiválják a cellákat az egyenletes teljesítményért.
-*   **Simultán kapcsolás (Boost mód):** Extrém nyomatékigény esetén (pl. nehézgépjármű indítása)
-*    a rendszer az összes cellát egyidejűleg rákapcsolja a hálózatra a maximális áramsűrűségért.
+### Dynamic Load Control (Pneumatic Actuation)
+*   **Sequential Switching (Voltage Stabilization):** Unlike chemical batteries, the control electronics sequentially engage individual cell matrix blocks as active cassettes discharge. This progressive activation maintains a highly stable output voltage curve across the entire operating cycle, eliminating the need for inefficient heavy DC-DC step-up conversion.
+*   **Simultaneous Engagement (Boost Mode):** When the system demands maximum torque or an immediate power surge (e.g., heavy machinery startup), the pneumatic block inflates all membranes simultaneously, delivering peak current density instantly.
+*   **Zero-Power Static Retention:** The pneumatic capillary network operates as a closed, valve-controlled system. Energy is only consumed during the milliseconds required to inflate or vent a chamber; once a state is set, the valves lock the pressure, maintaining mechanical contact with zero continuous parasitic power draw.
 
 ## Technikai összehasonlítás
 
@@ -42,6 +42,14 @@ kiváltva a hagyományos kémiai (pl. Li-ion) akkumulátorokat.
 | **Környezeti hatás** | Kritikus bányászat (Li, Co) | Száraz fémek, teljesen újrahasznosítható |
 
 ## Mérnöki kompromisszum és pozicionálás
+
+## Operational Ecosystem & Modular Scaling
+
+To seamlessly integrate the PC-SSPC architecture into the commercial market, the operational model is built around automated corporate logistics rather than traditional retail consumer charging:
+
+*   **B2B Fleet Operations:** The system is primarily engineered for commercial, industrial, and heavy-duty vehicles. Battery replenishment and management are handled exclusively by corporate fleet operators at dedicated depots, removing the charging infrastructure burden from individual end-users.
+*   **Standardized Modular Slots:** The external chassis and potential cassettes are designed with a universally standardized geometric form factor. This enables automated drive-in service stations where robotic arms can instantly slide out depleted cassettes and hot-swap them with fully re-polarized units in under a minute.
+*   **Extended Range Scaling (Auxiliary Cargo Storage):** Due to the dry, non-volatile, and safe nature of the solid-state architecture, users can purchase additional standalone cassettes. According to the design framework, these modular units can be safely transported in the cargo beds of utility vehicles (e.g., pickup trucks) or larger trunks to serve as plug-and-play range extenders for remote off-grid operations.
 
 A kiegészítő pneumatika és a robusztus kazettaszerkezet miatt a PC-SSPC **fizikailag nagyobb térfogatú és nehezebb**, mint egy azonos kapacitású Li-ion akkumulátor. 
 
