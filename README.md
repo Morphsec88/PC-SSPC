@@ -44,6 +44,18 @@ kiváltva a hagyományos kémiai (pl. Li-ion) akkumulátorokat.
 | **Biztonság / Leválasztás** | Termikus megfutás veszélye | Azonnali mechanikus lekapcsolás (levegőleeresztés) |
 | **Környezeti hatás** | Kritikus bányászat (Li, Co) | Száraz fémek, teljesen újrahasznosítható |
 
+## Key Advantages at a Glance
+
+*   **Absolute Zero Self-Discharge** – Can store energy for decades with zero power loss when inactive.
+*   **Infinite Cycle Life** – Solid-state physics design ensures zero chemical wear or degradation over time.
+*   **Fail-Safe Mechanical Shutdown** – Instantly drops voltage to absolute zero (0V) by venting air pressure during accidents.
+*   **Inherent Short-Circuit Protection** – Localized overheating melts the membrane, automatically dropping pressure and disconnecting the broken cell.
+*   **Dynamic Voltage Optimization** – Sequentially activates fresh cells to maintain a flat, stable voltage curve without heavy converter losses.
+*   **Instant Maximum Torque (Boost Mode)** – Can engage all cells simultaneously to deliver peak current for heavy machine acceleration.
+*   **60-Second Gravity-Assisted Swap** – The 4-wheeled cassette architecture allows depleted batteries to simply roll out via gravity on a slight incline.
+*   **No Fire or Explosion Hazard** – Completely dry, unipolar metal structures with zero volatile liquid electrolytes.
+*   **100% Eco-Friendly & Recyclable** – Built from dry metals without requiring toxic, heavy mining materials like Lithium or Cobalt.
+*   **Plug-and-Play Range Extenders** – Safe, non-volatile spare cassettes can be safely carried in truck beds or trunks for off-grid operations.
 
 ## Operational Ecosystem & Modular Scaling
 
