@@ -8,14 +8,13 @@ kiváltva a hagyományos kémiai (pl. Li-ion) akkumulátorokat.
 
 ## Kulcsfontosságú elemek
 
- **Potential Cassette (The Core):** A dry, hot-swappable dual-compartment unit divided into a Charged and an Uncharged zone. The inner core features billions of micro-machined lamellae structured via ultrasonic milling. Because each block is strictly unipolar (homogeneous polarity per block) with zero internal voltage differential, there is no risk of internal short-circuits or arc-discharge. This allows the lamellae to be finely and tightly pressed directly against each other (**dense mechanical compression**), maximizing the effective electrostatic surface area within a compact volume.
+ **Potential Cassette (The Core):** A dry, hot-swappable dual-compartment unit divided into a Charged and an Uncharged zone. 
+ The inner core features billions of micro-machined lamellae structured via ultrasonic milling.
+ Because each block is strictly unipolar (homogeneous polarity per block) with zero internal voltage differential,
+ there is no risk of internal short-circuits or arc-discharge. 
+ This allows the lamellae to be finely and tightly pressed directly against each other (**dense mechanical compression**),
+ maximizing the effective electrostatic surface area within a compact volume.
 
-*   **Potential Cassette (Mag):** Száraz, cserélhető, kettős rekeszű egység (Charged és Uncharged zónák).
-*   A belső mag ultrahangos marással strukturált, mikroméretű lamellákból álló porózus mátrix.
-*   Unipoláris felépítése miatt nincs belső feszültségkülönbség vagy ívkisülés-veszély.
-*   **Pneumatic Control Block (Aktuátor):** Sűrített levegővel működtetett kapilláris rendszer,
-*    amely egy fémbevonatú gumimembránt deformál sík állapotból „C” profilúvá, mechanikus kontaktust létrehozva a kazetta fix termináljaival.
-*   **Buffer Capacity (Stabilizátor):** Kondenzátortelep, amely tompítja a kezdeti áramlökéseket és simítja a külső terhelés felé menő kimenetet.
 
 ## Működési elv és vezérlés
 
