@@ -30,6 +30,9 @@ kiváltva a hagyományos kémiai (pl. Li-ion) akkumulátorokat.
 
 ## Technikai összehasonlítás
 
+
+<img width="1881" height="1141" alt="PC-SSPC2" src="https://github.com/user-attachments/assets/70d0439b-d443-4b4b-8ac1-62c7d9239902" />
+
 <img width="3268" height="1728" alt="PC-SSPC" src="https://github.com/user-attachments/assets/4a2bb7fb-876c-4222-9c76-0c6cd3628487" />
 
 | Jellemző | Lithium-Ion | PC-SSPC |
