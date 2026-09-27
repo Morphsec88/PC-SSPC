@@ -58,6 +58,15 @@ A gyártás a nagyobb felépítésű járművek (SUV, teherautók, vonatok, haj�
 *   **Életciklus-költség:** Nem igényel időszakos, méregdrága akkupakk-cserét, túlélve a jármű élettartamát.
 *   **Abszolút biztonság:** A gyúlékony elektrolitok hiánya és a milliszekundumos pneumatikus vészlekapcsolás megszünteti a tűzveszélyt.
 
+## Disclaimer & Architectural Notes
+
+### Legal Disclaimer
+This repository introduces a theoretical, high-level engineering concept. The schematics, descriptions, and functional parameters provided herein are intended solely for academic research, conceptual evaluation, and architectural illustration. The authors assume no liability or responsibility for any direct, indirect, or accidental damages, injuries, or electrical hazards resulting from unauthorized replication, physical prototyping, or improper handling of high-potential electrostatic systems. Any practical implementation of this technology requires rigorous independent simulation, professional compliance testing, and certified safety engineering.
+
+### Schematic Interpretation & Contact Well Optimization
+*   **Illustrative Purpose Only:** The accompanying system diagram is a simplified functional blueprint designed to visualize the dynamic switching logic and the structural layout of the unipolar zones. It does not represent final production-ready dimensions or assembly tolerances.
+*   **Recessed Contact Well Design:** To eliminate any residual risk of human contact or surface-to-surface arcing during high-voltage operations, the final implementation requires an advanced mechanical layout. The fixed primary terminals must be seated deep within a protective, recessed enclosure (**"Contact Well"**) inside the battery chassis. This geometric recess ensures that the flexible membrane can only bridge the electrical connection upon full pneumatic inflation, keeping the high-voltage nodes completely inaccessible to external elements or accidental contact during hot-swapping.
+
 ## Licenc
 
 Ez az architektúra és koncepció a **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** licenc alatt áll. 
