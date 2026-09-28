@@ -6,7 +6,7 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 ## Key Advantages at a Glance
 
 *   **Absolute Zero Self-Discharge** – Stores energy for decades with zero power loss when inactive.
-*   **Infinite Cycle Life** – Solid-state physics design ensures zero chemical wear or degradation over time.
+*  Ultra-High Industrial Cycle Life – Solid-state physics design completely eliminates chemical wear, ensuring decades of degradation-free operation.
 *   **Fail-Safe Mechanical Shutdown** – Instantly drops voltage to absolute zero (0V) by venting air pressure during accidents.
 *   **Inherent Short-Circuit Protection** – Localized overheating melts the membrane, automatically dropping pressure and disconnecting the broken cell.
 *   **Dynamic Voltage Optimization** – Sequentially activates fresh cells to maintain a flat, stable voltage curve without heavy converter losses.
@@ -17,7 +17,7 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 
 ## Key Architectural Elements
 
-*   **Potential Cassette (The Core):** A dry, hot-swappable dual-compartment unit divided into a Charged and an Uncharged zone. The inner core features billions of micro-machined lamellae structured via ultrasonic milling. To completely bypass the electrostatic Faraday-cage effect and prevent charges from migrating solely to the outer walls, the matrix integrates passivated, non-conductive reference plates ("blind plugs"). These internal dummy plates utilize electrostatic induction to actively draw and bind the charges deep within the micro-machined tunnels. While this internal matrix features alternating reference layers, the macroscopic exterior of the cassette terminates into strictly unipolar, single-polarity contact surfaces, enabling **dense mechanical compression** with zero internal short-circuit or handling hazards. *Note: Achieving maximum energy density requires precise future optimization of the active-to-blind lamellae ratio.*
+*   **Potential Cassette (The Core):** A dry, hot-swappable dual-compartment unit divided into a Charged and an Uncharged zone. The inner core features billions of micro-machined lamellae structured via advanced photolithography and chemical etching. To completely bypass the electrostatic Faraday-cage effect and prevent charges from migrating solely to the outer walls, the matrix integrates passivated, non-conductive reference plates ("blind plugs"). These internal dummy plates utilize electrostatic induction to actively draw and bind the charges deep within the micro-machined tunnels. While this internal matrix features alternating reference layers, the macroscopic exterior of the cassette terminates into strictly unipolar, single-polarity contact surfaces, enabling **dense mechanical compression** with zero internal short-circuit or handling hazards. *Note: Achieving maximum energy density requires precise future optimization of the active-to-blind lamellae ratio.*
 *  **Pneumatic Control Block (The Actuator):** A compressed-air driven capillary system that deforms a **metal contact lifting membrane** from a flat standby plane into a "C-shaped" profile, forcing a mechanical contact against the cassette's fixed terminals.
 
 
@@ -26,8 +26,8 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 ### Operation Cycle
 1.  **Standby (Fail-Safe State):** The rubber membrane remains perfectly flat. The potential cassette zones are isolated by a physical air gap, ensuring absolute zero self-discharge.
 2.  **Activation:** Compressed air inflates the conductive membrane into a C-shape, establishing the physical bridge and initiating instant electron flow.
-3.  **Buffering & Output:** The generated current primes the capacitor bank, which feeds the external consumer.
-4.  **Depletion & Swap:** The cassette can be completely discharged down to 0 Volts with zero structural degradation. Once depleted, the dry cassette is slid out and industrially re-polarized infinitely.
+3.  Output Delivery** The generated current flows directly from the physical interface to feed the external consumer with zero chemical conversion delays.
+4.  **Depletion & Swap:** The cassette can be completely discharged down to 0 Volts with zero structural degradation. Once depleted, the dry cassette is extracted and electrostatically re-charged to its peak potential via industrial networks.
 
 ### Dynamic Load Control (Pneumatic Actuation)
 *   **Sequential Switching (Voltage Stabilization):** Unlike chemical batteries, the control electronics sequentially engage individual cell matrix blocks as active cassettes discharge. This progressive activation maintains a highly stable output voltage curve across the entire operating cycle, eliminating the need for inefficient heavy DC-DC step-up conversion.
@@ -62,7 +62,7 @@ To seamlessly integrate the PC-SSPC architecture into the commercial market, the
 Due to the auxiliary pneumatic plumbing, mechanical control valves, and robust cassette housing, the PC-SSPC system is **physically larger and heavier** than a lithium-ion pack of equivalent capacity. 
 
 This volumetric and gravimetric increase is a deliberate engineering trade-off. The architecture is optimized specifically for large-frame vehicles (SUVs, commercial trucks, trains, marine vessels) and grid energy storage systems, where mass is offset by the following advantages:
-*   **Total Lifecycle Value:** Eliminates the need for expensive, decade-cycle battery replacements, outlasting the operational lifespan of the host vehicle or facility.
+*   Total Lifecycle Value: The solid-state cassette outlasts the host vehicle with zero degradation, while the vehicle-side pneumatic actuator utilizes a heavy-duty, high-cycling composite membrane designed for minimal, long-interval modular maintenance.
 *   **Absolute Safety:** The absence of volatile liquid electrolytes combined with a millisecond-range pneumatic pressure dump completely eliminates thermal runaway and fire hazards.
 
 ## Multi-Layered Safety & Inherent Fail-Safe Systems
