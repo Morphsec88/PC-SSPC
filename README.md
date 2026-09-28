@@ -11,7 +11,6 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 *   **Inherent Short-Circuit Protection** – Localized overheating melts the membrane, automatically dropping pressure and disconnecting the broken cell.
 *   **Dynamic Voltage Optimization** – Sequentially activates fresh cells to maintain a flat, stable voltage curve without heavy converter losses.
 *   **Instant Maximum Torque (Boost Mode)** – Engages all cells simultaneously to deliver peak current for heavy machine acceleration.
-*   **60-Second Gravity-Assisted Swap** – The 4-wheeled cassette architecture allows depleted batteries to simply roll out via gravity on a slight incline.
 *   **No Fire or Explosion Hazard** – Completely dry, unipolar metal structures with zero volatile liquid electrolytes.
 *   **100% Eco-Friendly & Recyclable** – Built from dry metals without requiring toxic, heavy mining materials like Lithium or Cobalt.
 *   **Plug-and-Play Range Extenders** – Safe, non-volatile spare cassettes can be safely carried in truck beds or trunks for off-grid operations.
