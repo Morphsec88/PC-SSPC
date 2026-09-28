@@ -35,7 +35,8 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 *   **Simultaneous Engagement (Boost Mode):** When the system demands maximum torque or an immediate power surge (e.g., heavy machinery startup), the pneumatic block inflates all membranes simultaneously, delivering peak current density instantly.
 *   **Zero-Power Static Retention:** The pneumatic capillary network operates as a closed, valve-controlled system. Energy is only consumed during the milliseconds required to inflate or vent a chamber; once a state is set, the valves lock the pressure, maintaining mechanical contact with zero continuous parasitic power draw.
 
-*   <img width="3268" height="1728" alt="PC-SSPC" src="https://github.com/user-attachments/assets/a60d1187-7c04-4e39-906e-36b4e6ecc5ff" />
+* <img width="3268" height="1728" alt="PC-SSPC" src="https://github.com/user-attachments/assets/6a966345-e4db-47fe-9679-fb786038ca38" />
+
 
 
 ## Technical Comparison
