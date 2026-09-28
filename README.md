@@ -57,7 +57,6 @@ To seamlessly integrate the PC-SSPC architecture into the commercial market, the
 
 *   **B2B Fleet Operations:** The system is primarily engineered for commercial, industrial, and heavy-duty vehicles. Battery replenishment and management are handled exclusively by corporate fleet operators at dedicated depots, removing the charging infrastructure burden from individual end-users.
 *   **Gravity-Assisted Rolling Hot-Swap:** Each standardized potential cassette is engineered as a self-contained, 4-wheeled rolling module. Once the pneumatic actuator deflates and completely uncouples the electrical interface, a mechanical latch releases the cassette. Utilizing a subtle, integrated decline track within the vehicle's chassis, the depleted unit safely rolls out via gravity. This eliminates the need for high-powered, complex robotic lifting machinery at service stations, reducing the swap mechanism to simple directional guiding rails.
-*   **Extended Range Scaling (Auxiliary Cargo Storage):** Due to the dry, non-volatile, and safe nature of the solid-state architecture, users can purchase additional standalone cassettes. According to the design framework, these modular units can be safely transported in the cargo beds of utility vehicles (e.g., pickup trucks) or larger trunks to serve as plug-and-play range extenders for remote off-grid operations.
 
 ## Engineering Trade-Off & Positioning
 
