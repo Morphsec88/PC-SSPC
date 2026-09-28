@@ -45,7 +45,7 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 | :--- | :--- | :--- |
 | **Storage Mechanism** | Chemical Reaction (Volumetric) | Pure Physics / Electrostatic Surface Area |
 | **Self-Discharge** | High (~2-5% per month) | Absolute Zero (Decade-stable isolation) |
-| **Cycle Life** | 1,000 - 3,000 cycles (Degrades) | Infinite (Solid-state, no chemical wear) |
+| **Cycle Life** | 1,000 - 3,000 cycles (Degrades) | 100,000+ cycles (Solid-state core, zero chemical wear)
 | **Discharge Window** | Narrow (3.0V - 4.2V), bricked at 0V | Full Utilization (Down to 0V safely) |
 | **Safety & Isolation** | Thermal Runaway / Fire Hazard | Instant Mechanical Shutdown (Air release) |
 | **Environmental Impact** | Heavy mining (Lithium, Cobalt), toxic | Eco-friendly, dry metals, fully recyclable |
