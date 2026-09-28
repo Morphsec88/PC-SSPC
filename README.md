@@ -20,7 +20,7 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 
 *   **Potential Cassette (The Core):** A dry, hot-swappable dual-compartment unit divided into a Charged and an Uncharged zone. The inner core features billions of micro-machined lamellae structured via ultrasonic milling. To completely bypass the electrostatic Faraday-cage effect and prevent charges from migrating solely to the outer walls, the matrix integrates passivated, non-conductive reference plates ("blind plugs"). These internal dummy plates utilize electrostatic induction to actively draw and bind the charges deep within the micro-machined tunnels. While this internal matrix features alternating reference layers, the macroscopic exterior of the cassette terminates into strictly unipolar, single-polarity contact surfaces, enabling **dense mechanical compression** with zero internal short-circuit or handling hazards. *Note: Achieving maximum energy density requires precise future optimization of the active-to-blind lamellae ratio.*
 *  **Pneumatic Control Block (The Actuator):** A compressed-air driven capillary system that deforms a **metal contact lifting membrane** from a flat standby plane into a "C-shaped" profile, forcing a mechanical contact against the cassette's fixed terminals.
-*   **Buffer Capacity (The Stabilizer):** A dedicated ultra-stable capacitor bank that dampens initial current surges and smooths the power delivery to the external load.
+
 
 ## Operation & Load Management
 
