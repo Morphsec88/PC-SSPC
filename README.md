@@ -33,6 +33,9 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 *   **Sequential Switching (Voltage Stabilization):** Unlike chemical batteries, the control electronics sequentially engage individual cell matrix blocks as active cassettes discharge. This progressive activation maintains a highly stable output voltage curve across the entire operating cycle, eliminating the need for inefficient heavy DC-DC step-up conversion.
 *   **Simultaneous Engagement (Boost Mode):** When the system demands maximum torque or an immediate power surge (e.g., heavy machinery startup), the pneumatic block inflates all membranes simultaneously, delivering peak current density instantly.
 *   **Zero-Power Static Retention:** The pneumatic capillary network operates as a closed, valve-controlled system. Energy is only consumed during the milliseconds required to inflate or vent a chamber; once a state is set, the valves lock the pressure, maintaining mechanical contact with zero continuous parasitic power draw.
+*   ## Hybrid & Legacy Battery Management
+
+The PC-SSPC architecture is highly adaptable for switching and managing traditional chemical batteries. The pneumatic membrane interface provides absolute physical isolation to secure standard energy storage arrays.
 
 * <img width="3268" height="1728" alt="PC-SSPC" src="https://github.com/user-attachments/assets/6a966345-e4db-47fe-9679-fb786038ca38" />
 
