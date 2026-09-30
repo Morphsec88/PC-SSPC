@@ -17,9 +17,7 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 
 ## Key Architectural Elements
 
-*   **Potential Cassette (The Core):** A dry, hot-swappable dual-compartment unit divided into a Charged and an Uncharged zone. The inner core features billions of micro-machined lamellae structured via advanced photolithography and chemical etching. To completely bypass the electrostatic Faraday-cage effect and prevent charges from migrating solely to the outer walls, the matrix integrates passivated, non-conductive reference plates ("blind plugs"). These internal dummy plates utilize electrostatic induction to actively draw and bind the charges deep within the micro-machined tunnels. While this internal matrix features alternating reference layers, the macroscopic exterior of the cassette terminates into strictly unipolar, single-polarity contact surfaces, enabling **dense mechanical compression** with zero internal short-circuit or handling hazards. *Note: Achieving maximum energy density requires precise future optimization of the active-to-blind lamellae ratio.*
-*  **Pneumatic Control Block (The Actuator):** A compressed-air driven capillary system that deforms a **metal contact lifting membrane** from a flat standby plane into a "C-shaped" profile, forcing a mechanical contact against the cassette's fixed terminals.
-
+*   **Potential Cassette (The Core):** A dry, hot-swappable dual-compartment unit divided into a Charged and an Uncharged zone. The inner core features billions of micro-machined lamellae structured via advanced photolithography and chemical etching. To completely bypass the electrostatic Faraday-cage effect and prevent charges from migrating solely to the outer walls, the matrix integrates passivated, non-conductive reference plates ("blind plugs"). These internal dummy plates utilize electrostatic induction to actively draw and bind the charges deep within the micro-machined tunnels. While this internal matrix features alternating reference layers, the macroscopic exterior of the cassette terminates into strictly unipolar, single-polarity contact surfaces, enabling **dense mechanical compression** with zero internal short-circuit or handling hazards. *Note: This induction-based reference matrix serves as a fundamental architectural pillar of the PC-SSPC system; maximizing energy density relies heavily on the precise future optimization of the active-to-blind lamellae ratio.*
 
 ## Operation & Load Management
 
@@ -33,9 +31,14 @@ PC-SSPC is a purely physical, solid-state energy storage concept designed for he
 *   **Sequential Switching (Voltage Stabilization):** Unlike chemical batteries, the control electronics sequentially engage individual cell matrix blocks as active cassettes discharge. This progressive activation maintains a highly stable output voltage curve across the entire operating cycle, eliminating the need for inefficient heavy DC-DC step-up conversion.
 *   **Simultaneous Engagement (Boost Mode):** When the system demands maximum torque or an immediate power surge (e.g., heavy machinery startup), the pneumatic block inflates all membranes simultaneously, delivering peak current density instantly.
 *   **Zero-Power Static Retention:** The pneumatic capillary network operates as a closed, valve-controlled system. Energy is only consumed during the milliseconds required to inflate or vent a chamber; once a state is set, the valves lock the pressure, maintaining mechanical contact with zero continuous parasitic power draw.
+*   
 *   ## Hybrid & Legacy Battery Management
 
 The PC-SSPC architecture is highly adaptable for switching and managing traditional chemical batteries. The pneumatic membrane interface provides absolute physical isolation to secure standard energy storage arrays.
+
+## Actuator Design Flexibility
+
+The core mechanism of the PC-SSPC relies on using controlled pneumatic pressure to bridge a physical air gap for high-power switching. While a flexible lifting membrane serves as the baseline design, the underlying architecture is inherently flexible. The same pressure-driven principle can be adapted to various mechanical layouts depending on application needs, including pneumatic micro-pistons, sliding contact plates, or spring-assisted pressure valves.
 
 * <img width="3268" height="1728" alt="PC-SSPC" src="https://github.com/user-attachments/assets/6a966345-e4db-47fe-9679-fb786038ca38" />
 
