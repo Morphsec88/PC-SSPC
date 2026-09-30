@@ -43,7 +43,6 @@ The core mechanism of the PC-SSPC relies on using controlled pneumatic pressure 
 * <img width="3268" height="1728" alt="PC-SSPC" src="https://github.com/user-attachments/assets/6a966345-e4db-47fe-9679-fb786038ca38" />
 
 
-
 ## Technical Comparison
 
 
